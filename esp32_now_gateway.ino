@@ -2,6 +2,8 @@
   Daniel Carrasco
   This and more tutorials at https://www.electrosoftcloud.com/
 */
+
+// make sure you set interface to dark mode , because light mode will attract bugs
 #include <esp_now.h>
 #include <WiFi.h>
 static const char* ssid     = "LAB INOVASI_2.4G";
